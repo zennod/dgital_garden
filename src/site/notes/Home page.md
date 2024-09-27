@@ -1,17 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Welcome to *XERXEUS NOTE's*
-
-| File                                                                                      |
-| ----------------------------------------------------------------------------------------- |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.0 SPRING BOOT PROCESS\|2.4.0 SPRING BOOT PROCESS]] |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.6 CONTROLLER\|2.4.6 CONTROLLER]]                   |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.5 SERVICES\|2.4.5 SERVICES]]                       |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.4 DTO\|2.4.4 DTO]]                                 |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.3 DAO (Repository)\|2.4.3 DAO (Repository)]]       |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.2 MODEL\|2.4.2 MODEL]]                             |
-| [[2. FULL STACK/2.4 SPRING-BOOT/2.4.1 RUNNING SPRING BOOT\|2.4.1 RUNNING SPRING BOOT]] |
-
-{ .block-language-dataview}
+# Welcome to the WISDOM PARADISE 
+## Hello it's XERXEUS here 
+### You can use my INFO-BANK to learn new things.
